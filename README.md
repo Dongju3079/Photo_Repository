@@ -8,3 +8,4 @@
 ![로그인](https://github.com/user-attachments/assets/9017d720-4d21-497f-b5df-6e6b13292aaa)
 ![로그아웃](https://github.com/user-attachments/assets/f0e78dda-0beb-4248-a4ec-d991d09bd633)
 ![댓글](https://github.com/user-attachments/assets/8ee6849c-1e36-4c96-b0a5-30319a745091)
+![card image](https://github.com/user-attachments/assets/bfad296c-637d-47e1-a8da-2284f5c8b0e5)
