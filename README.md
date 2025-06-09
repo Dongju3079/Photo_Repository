@@ -1,18 +1,10 @@
-# TestGit
-![달력1](https://github.com/user-attachments/assets/243bdf88-f61f-4a78-89ac-f6028805e2b5)
-<br>
-![회원가입](https://github.com/user-attachments/assets/72d7ef08-a9e0-49cf-b97a-90899fae5005)
-<br>
-![알림창](https://github.com/user-attachments/assets/e7abfbb5-5a66-4411-a86a-cdbd31cce596)
-<br>
-![시트뷰](https://github.com/user-attachments/assets/7967ee9d-8128-47c1-92f0-0e61f8582bb5)
-<br>
-![스팰래쉬](https://github.com/user-attachments/assets/a7e1d824-e2a6-4510-a26f-eb59ba0ebb1d)
-<br>
-![로그인](https://github.com/user-attachments/assets/f8830482-3997-4a3c-a715-14828ed6c1e8)
-<br>
-![로그아웃](https://github.com/user-attachments/assets/5b0e6bb3-2c3f-4c7c-b6f2-79ebfcefb36a)
-<br>
-![댓글](https://github.com/user-attachments/assets/e361c1cb-20aa-43fe-bad8-8726923624f3)
-<br>
-![달력2](https://github.com/user-attachments/assets/56c9aad6-0929-41eb-96f3-4edf8a5ba4e9)
+
+![회원가입](https://github.com/user-attachments/assets/5bfb5eba-bdeb-4a08-8c79-6644a9e39854)
+![커스텀 얼럿](https://github.com/user-attachments/assets/9ba93de5-9d6d-4353-9401-8d3f7403954c)
+![커스텀 시트뷰](https://github.com/user-attachments/assets/65ac0d18-776c-4b92-b58c-398badf0b042)
+![캘린더](https://github.com/user-attachments/assets/66aa8aac-ad35-428f-8d7f-51f28b6f36ac)
+![캘린더 2](https://github.com/user-attachments/assets/4f1a6bab-d6bb-4822-9474-69f12505d2f8)
+![스플래쉬](https://github.com/user-attachments/assets/bc6d145f-d34a-44a8-8930-cae15f5b7fc7)
+![로그인](https://github.com/user-attachments/assets/9017d720-4d21-497f-b5df-6e6b13292aaa)
+![로그아웃](https://github.com/user-attachments/assets/f0e78dda-0beb-4248-a4ec-d991d09bd633)
+![댓글](https://github.com/user-attachments/assets/8ee6849c-1e36-4c96-b0a5-30319a745091)
