@@ -7,7 +7,7 @@
 <br>
 ![시트뷰](https://github.com/user-attachments/assets/7967ee9d-8128-47c1-92f0-0e61f8582bb5)
 <br>
-![스플래쉬](https://github.com/user-attachments/assets/3066910a-1e51-42fa-af18-20fbcc5c3f04)
+![스팰래쉬](https://github.com/user-attachments/assets/a7e1d824-e2a6-4510-a26f-eb59ba0ebb1d)
 <br>
 ![로그인](https://github.com/user-attachments/assets/f8830482-3997-4a3c-a715-14828ed6c1e8)
 <br>
