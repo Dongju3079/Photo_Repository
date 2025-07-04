@@ -1,4 +1,5 @@
 
+<img width="623" alt="스크린샷 2025-07-04 19 03 49" src="https://github.com/user-attachments/assets/7365c52c-5b93-4247-a3d5-462bdedc83b9" />
 ![회원가입](https://github.com/user-attachments/assets/5bfb5eba-bdeb-4a08-8c79-6644a9e39854)
 ![커스텀 얼럿](https://github.com/user-attachments/assets/9ba93de5-9d6d-4353-9401-8d3f7403954c)
 ![커스텀 시트뷰](https://github.com/user-attachments/assets/65ac0d18-776c-4b92-b58c-398badf0b042)
